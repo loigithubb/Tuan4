@@ -1,0 +1,247 @@
+
+#wrapper{
+    display: flex;
+    justify-content: center;
+}
+#container{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 1440px;
+}
+#left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 870px;
+    width: 90px;
+    margin-right: 40px;
+}
+#tren{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 500px;
+}
+#duoi{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#center{
+    width: 910px; 
+    display: flex;
+    flex-direction: column;
+}
+#mot{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;  
+    width: 830px; 
+    
+
+}
+#meeting{
+    margin-top: 10px;
+}
+#gio{
+    line-height: 60px;
+    border: 2px ridge red;
+    height: 40px;
+    width: 95px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 0px;
+    border-radius: 30px;
+    color: red;
+}
+#hai{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box{
+    display: flex;
+    
+    align-items: center;
+    padding: 5px;
+}
+#sep{
+    display: flex;
+}
+#tammgio{
+    display: flex;
+}
+#calender{
+        display: block;
+        max-width:20px;
+        max-height:20px;
+        
+}
+#ba{
+  
+    position: relative;
+    
+   
+}
+
+#ba .pig{
+    border-top: 10px solid aliceblue;
+    border-radius: 5px;
+}
+#Benjamin{
+    position: absolute;
+    background-color: rgb(117, 118, 120);
+    text-align: center;
+    line-height: 40px;
+    top: 10px;
+    left: 20px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+#mic{
+    position: absolute;
+    background-color: rgb(228, 19, 168);
+    top: 20px;
+    right: 80px;
+    padding: 8px;
+    border-radius: 5px;
+}
+#right{
+    width: 440px;
+}
+#bon{
+    width: 832px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;;
+}
+.bon11{
+    position: relative;
+    
+}
+.bon11chu{
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    background-color: rgb(144, 149, 160);
+    padding: 5px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.bon11hinh{
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    background-color: rgb(144, 149, 160);
+    padding: 4px;
+    border-radius: 5px;
+    
+}
+.bon11hinhbu{
+    border-radius: 5px;
+}
+#nam{
+    display: flex;
+    justify-content: center;
+    width: 830px;
+}
+.center5{
+    display: flex;
+    width: 487px;
+    height: 47px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+#endmeeting{
+    background-color: red;
+    width: 120px;
+    color: aliceblue;
+    border-style: none;
+}
+.center5caidat{
+    border-radius: 5px;
+}
+#right{
+    margin-right: 30px;
+    margin-left: 60px;
+    margin-top: -20px;
+}
+#trenright{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
+}
+.motright{
+    display: flex;
+    justify-content: space-between;
+}
+#Add{
+    margin-top: 14px;
+    height: 36px;
+    padding-left: 25px;
+    border-color: red;
+    color: red;
+}
+.hairight{
+display: flex;
+justify-content: space-between;
+}
+.baright{
+display: flex;
+justify-content: space-between;
+}
+.bonright{
+display: flex;
+justify-content: space-between;
+}
+.namright{
+display: flex;
+justify-content: space-between;
+}
+.hinhhai{
+    width: 35px;
+    height: 35px;
+}
+.haihaihai{
+    display: flex;
+
+}
+.haihaiba{
+    display: flex;
+   width: 80px;
+    height: 20px;
+    justify-content: space-between;
+
+}
+.duoiright{
+    display: flex;
+    flex-direction: column;
+
+}
+.duoiright11{
+    display: flex;
+    align-items: center;
+    
+}
+.duoiright5{
+    display: flex;
+    align-items: center;
+}
+#input{
+    border-style: none;
+    height: 40px;
+    width: 300px;
+    background-color: rgb(206, 205, 206);
+    border-radius: 5px;
+    
+}
+#icon{
+    margin-left: -30px;
+    margin-right: 30px;
+    
+}
